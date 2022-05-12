@@ -1,1 +1,1 @@
-# taco-cloud-clirnt
+# taco-cloud-client
